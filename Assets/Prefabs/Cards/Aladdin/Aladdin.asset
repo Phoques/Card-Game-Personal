@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f028ad2931eb9414b9c32224841b76ee, type: 3}
+  m_Name: Aladdin
+  m_EditorClassIdentifier: 
+  cardName: {fileID: 11400000, guid: 90b5b34992afab14b88301ca5ff0719a, type: 2}
+  description: {fileID: 11400000, guid: 3d294705709dcd24cbfa468f5c384727, type: 2}
+  icon: {fileID: 11400000, guid: 8898d3521f78bd94d8c643b36f0c35ad, type: 2}
+  background: {fileID: 11400000, guid: 88528ea4f05d79a45a3fdf26fc104164, type: 2}
+  cost: {fileID: 11400000, guid: 3d5c419e69a2fda4b8ec7fe6e3a51293, type: 2}
+  attackBase: {fileID: 11400000, guid: 7329bc4c3ab1e154fbeebb195c1da87a, type: 2}
+  healthBase: {fileID: 11400000, guid: 2ed47826886a46e4695fd84d8f309a74, type: 2}

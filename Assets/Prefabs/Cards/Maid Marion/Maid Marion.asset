@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f028ad2931eb9414b9c32224841b76ee, type: 3}
+  m_Name: Maid Marion
+  m_EditorClassIdentifier: 
+  cardName: {fileID: 11400000, guid: 8daea8d98cc854241837d94f3851cc01, type: 2}
+  description: {fileID: 11400000, guid: 0ee763c9fb7cc9146992ca2adb6b405f, type: 2}
+  icon: {fileID: 11400000, guid: 49ccadfa9f361a84b886ff2676c198fc, type: 2}
+  background: {fileID: 11400000, guid: 036e482e81ec56f4ba35f4f6d4d749db, type: 2}
+  cost: {fileID: 11400000, guid: 1df62c4fc7bc4ba409f6da38b38a4962, type: 2}
+  attackBase: {fileID: 11400000, guid: a7549f127df625b449c1a86be4bb8cd0, type: 2}
+  healthBase: {fileID: 11400000, guid: 582d077398713e04e8692be7b7465a31, type: 2}

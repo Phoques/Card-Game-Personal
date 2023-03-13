@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f028ad2931eb9414b9c32224841b76ee, type: 3}
+  m_Name: Card Base
+  m_EditorClassIdentifier: 
+  cardName: {fileID: 11400000, guid: 18acd8d33cd172b4b8eab6b97a7a7a7b, type: 2}
+  description: {fileID: 11400000, guid: c4398d324bd3da449b4e1ac7a70efcd8, type: 2}
+  icon: {fileID: 11400000, guid: 7480b8d2da376424db78bf4642ba5ad0, type: 2}
+  background: {fileID: 11400000, guid: 88528ea4f05d79a45a3fdf26fc104164, type: 2}
+  cost: {fileID: 11400000, guid: 0b01aaa8d42be3144b1b839932816592, type: 2}
+  attackBase: {fileID: 11400000, guid: 442053eba12706545bdd528575508dd9, type: 2}
+  healthBase: {fileID: 11400000, guid: abce00428ba5fe44e9fa635551e7238c, type: 2}
